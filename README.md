@@ -85,18 +85,3 @@ The program operates in two modes:
 
 - In **Non-interactive mode**, pipe commands through `echo`.
 - In **Interactive mode**, type commands directly when the prompt appears and press Enter.
-
-**Arguments**
-
-- Most commands accept options or arguments.
-- Separate arguments with spaces.
-
-**Example:**
-
-```
-user@ubuntu:~/AirBnB$ ./console.py
-(hbnb) create BaseModel
-49faff9a-6318-451f-87b6-910505c55907
-user@ubuntu:~/AirBnB$ ./console.py
-
-```
