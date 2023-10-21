@@ -58,6 +58,7 @@ section.filters button:hover {
   padding: 7px 10px 0 29px;
   display: none;
   z-index: 1;
+  position: absolute;
 }
 .locations:hover .popover,
 .amenities:hover .popover {
